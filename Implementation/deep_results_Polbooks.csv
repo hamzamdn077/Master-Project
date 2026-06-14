@@ -1,0 +1,5 @@
+Algorithm,Communities,Modularity,NMI,ARI,Runtime (s)
+GCN (Graph Convolutional Network),3,0.0023,0.4719,0.4382,3.74
+GAT (Graph Attention Network),3,-0.0013,0.4522,0.4934,3.91
+VGAE (Variational Graph AE),3,-0.0186,0.5026,0.5736,2.62
+Autoencoder (Stacked AE),3,0.0085,0.015,-0.0246,2.82
