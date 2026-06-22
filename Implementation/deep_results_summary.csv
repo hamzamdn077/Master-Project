@@ -1,5 +1,5 @@
 Algorithm,Avg Modularity,Avg NMI,Avg ARI,Avg Time (s)
-GCN (Graph Convolutional Network),0.0542,0.4463,0.4066,9.86
-GAT (Graph Attention Network),0.0779,0.5017,0.4691,9.12
-VGAE (Variational Graph AE),0.0599,0.4365,0.4016,8.28
-Autoencoder (Stacked AE),0.0094,0.2708,0.2102,9.45
+GCN (Graph Convolutional Network),0.0819,0.5410,0.5113,10.32
+GAT (Graph Attention Network),0.0807,0.4902,0.4672,11.03
+VGAE (Variational Graph AE),0.0793,0.5206,0.4848,8.68
+Autoencoder (Stacked AE),0.0184,0.2855,0.1938,9.45
